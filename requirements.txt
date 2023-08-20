@@ -1,0 +1,4 @@
+openai
+langchain
+ray[default] 
+python-dotenv

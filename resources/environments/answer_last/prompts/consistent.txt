@@ -1,0 +1,12 @@
+Decide which of the following summary is more consistent with the article
+sentence. 
+
+Note that consistency means
+all information in the summary is supported by the article.
+
+Article Sentence: {article_sent}
+Summary A: {option_a}
+Summary B: {option_b}
+
+Lay out your reasoning step-by-step. After your explanation, add a newline and then output only an A or a B. 
+

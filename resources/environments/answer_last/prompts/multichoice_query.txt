@@ -1,0 +1,12 @@
+Determine if the following text says whether the answer is A, B or other. 
+
+Only output a single word, either: A B or other. 
+
+The answer will usually be at the end of the text. If you see A on the last line it is 
+definitely A. If you see B on the last line it is definitely B. 
+
+There may be some extraneous newlines and MS at the end. Ignore these. 
+
+Text: {query} 
+
+
