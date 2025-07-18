@@ -42,7 +42,7 @@ In the `resources` folder we included three versions of the prompts where we exp
 * Asking for the answer last (to give time for reasoning)
 * Deliberately calling out the bias and asking for it to work. 
 
-These addiitonal experiments did not have a major impact on the results; it seem that each 
+These additional experiments did not have a major impact on the results; it seem that each 
 different version of these queries were in "tradeoff" territory where it changed the individual
 results but not the outcomes. 
 
