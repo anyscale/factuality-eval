@@ -1,3 +1,5 @@
+> ⚠️ This repository is no longer maintained. It accompanied the blog post "Can you trust Llama 2 and ChatGPT to factually summarize?" (https://www.anyscale.com/blog/llama-2-is-about-as-factually-accurate-as-gpt-4-for-summaries-and-is-30x-cheaper).
+
 # factuality-eval
 Companion code and iPython notebooks for evaluating factuality as outlined
 in this [blog post](https://www.anyscale.com/blog/llama-2-is-about-as-factually-accurate-as-gpt-4-for-summaries-and-is-30x-cheaper) 
